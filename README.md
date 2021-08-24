@@ -25,7 +25,6 @@ Then follow the steps to deploy the project on the server. 
 - mysession.py
 - vouhcer.py
 - config.json
-- service_account.json
 
 2. Install required python packages by running:  
 
