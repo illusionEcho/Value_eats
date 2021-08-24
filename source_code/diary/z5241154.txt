@@ -1,0 +1,35 @@
+Week 1
+I found partners who would complete the course together and formed a group.  Then I had a meeting with team members to discuss which topic to choose.
+A final analysis document was integrated by us and we planned to start writing proposal based on this document next week. What's more, I also joined in our Jira and GitHub group.
+
+Week2
+This week, I start to draw proto graphs. I have completed four parts for our project, they are register page, login page, homepage, account page and profile page for diners and eateries respectively.
+Next week, I am going to design voucher transaction page and write description of these proto graphs into Proposal.doc.
+
+Week3
+I have finishedthe interface design in front-end parts and put them into our Proposal.doc with my goupmates.
+I also starte writing front-end code. At present, I am in the stage of building framework and debugging environment.
+Next week, I will complete the login page, register page and profile page.
+
+Week4
+I have written JS files for front end and back end interaction. Then my teammates had a meeting together to debug front and back end files.
+Next week, I am going to wirte code for search page and related function.
+
+Week5
+This week we have completed all the tasks in the first sprint. Next week, I will start to write the search page and modify front-end apis with back-end.
+
+Week6
+This week I have finished the tasks in sprint2 on jira. I also works with back-end teammates to modify the apis.
+
+Week7
+In week7, I paid much attention to bugs on our website.
+I completed the reservation page on diner page.
+Next week, I would fix the bugs I found with other teammates.
+
+Week8
+This week, I try to beautify interface and add some pictures on the home page.
+What's more, I also work with back-end teammates to fix some bugs.
+In week9, I will start working on the final report.
+
+Week9
+In Week9, I finished the final report with my teammates and upload the final version of our project.

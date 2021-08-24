@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+value_eats/service_account.json
+source_code/service_account.json

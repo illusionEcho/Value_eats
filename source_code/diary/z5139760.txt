@@ -1,0 +1,27 @@
+Week 1
+
+We formed a 9900 project group, and we created a git class, as well as the Jira account. I will focus on the establishment of the website back end with Xiaoxi Zhu (z5057407) in the rest of the semester. Together with Xiaoxi, we discussed the high level design of the back end during the week, including the rough design of database, interaction between front end and back end (API). And we also considered some potential risks that may appear in the future, for example, data encryption and concurrence.
+
+Week 2
+I have learned how to use Google firebase, which supports a cloud database and hosting service. Thus, I set up the environment on my own computer and tested the database (add, remove and query the data from database). Then, I built a database frame relates to our project and added some testing data in it. Also, we detailed the project objectives and started the proposal. I and Xiaoxi Zhu are responsible for some parts of the user stories and technical depth in the proposal writing.
+
+Week 3
+We finalised the proposal writing and submit it this week. And I helped Xiaoxi to set up the programming environment. We clearly listed out the sprints, we planned to finish the sign up, log in and log out function, as well as the main page design by Week 5.
+
+Week 4
+I've learned the use of Http API and use it to communicate with front-end. We finished the function of sign-in, sign-up and reset password. And we plan to finalise the update profile function and the voucher releasing function in next week.
+
+Week 5
+We completed the first presentation in week 5. We reconstructed the database in back end and make it available for voucher releasing. The search function starts this week and we plan to finish it in the next week. 
+
+Week 6 
+I have learned the query of firebase NoSQL and finished the basic function of voucher releasing, voucher booking, voucher check and voucher review functions. Additionally, I finished the basic search function (search by eatery name) in the main page. I plan to finalise the voucher related functions and detail search (search by region, time, cuisine and sort) functions in the next week.
+
+Week 7 
+I have done the voucher related functions in this week, add voucher information in either diner and eatery page, make it convenient to use for both diners and eateries, and the voucher information can be searched by date. I plan to finish admin page in the next week and start the recommendation algorithm.
+
+Week 8
+We finished the back end works of the projects, and starts the final report writing and preparation of presentation. We will keep testing the system and find potential bugs in the rest of the term. We planing to finish the report in the next week.
+
+Week 9
+We finished all the project in this week and add comments to the code. We are starting to prepare the final presentation and hope we can get a good mark.
